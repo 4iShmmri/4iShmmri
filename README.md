@@ -5,7 +5,7 @@ Full-Stack Developer | Building Scalable Mobile & Web Experiences
 ---
 
 ### 🏛️ About Me
-I am a passionate Full-Stack Developer dedicated to creating efficient, scalable, and immersive digital solutions. I specialize in backend architectures, interactive web graphics, and cross-platform mobile development. My goal is to bridge the gap between complex logic and user-centric design.
+I am a passionate **Full-Stack Developer** dedicated to creating efficient, scalable, and immersive digital solutions. I specialize in **backend architectures**, **interactive web graphics**, and **cross-platform mobile development**. I also help **startups build their digital products and launch their applications and software to the market**. My goal is to **bridge the gap between complex logic and user-centric design**, while supporting entrepreneurs in turning their ideas into successful technology products. 🚀
 
 ---
 
