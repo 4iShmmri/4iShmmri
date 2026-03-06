@@ -36,10 +36,6 @@ An interactive crossword puzzle game for mobile and web.
 A project and resource management tool tailored for team scheduling.
 - **Core Features**: Manages employee shifts, resource allocation, and project timelines. Includes automated conflict detection and a centralized calendar for team visibility.
 
-#### **6. MySprint**
-An Agile-focused project management tool.
-- **Workflow**: Manages development sprints, backlogs, and task assignments. Helps development teams stay organized and track velocity throughout the product lifecycle.
-
 ---
 
 ### 🛠️ Skills & Languages
@@ -51,9 +47,3 @@ An Agile-focused project management tool.
 - **Languages**: Arabic (Native), English (Professional).
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4iShmmri/4iShmmri/main/avatar.png" width="220" style="border-radius: 50%;" />
-  <br/>
-  <i>"Philosophy begins in wonder."</i>
-</p>
