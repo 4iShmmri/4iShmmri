@@ -1,63 +1,45 @@
-# Hi there, I'm Mohammed Al-Shammari 👋
+# Mohammed Al-Shammari 👋
 
-Full-Stack Developer | Mobile App Enthusiast | 3D Web Graphics Explorer
-
----
-
-### 🏛️ About Me
-I am a passionate developer focused on building scalable backend systems, immersive 3D web experiences, and cross-platform mobile applications. I believe in the philosophy of clean code and continuous learning.
-
-- 🔭 I’m currently working on **Mall Connect**
-- 🌱 I’m currently learning **Rust** and **Advanced 3D Graphics**
-- 💬 Ask me about **NestJS, Next.js, and Flutter**
-- 📫 How to reach me: [Twitter @4icwxx](https://twitter.com/4icwxx)
+Full-Stack Developer | Mobile App Specialist | 3D Web Graphics Explorer
 
 ---
 
-### 🛠️ Tech Stack
+### 🏛️ Professional Biography
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <br/>
-  <!-- Mobile & Languages -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+I am Mohammed Al-Shammari, a dedicated Full-Stack Developer with a deep-seated passion for crafting seamless digital experiences. My technical journey is driven by a curiosity for how complex systems interact, from the intricate logic of backend architectures to the immersive possibilities of 3D web graphics.
+
+With extensive experience in **NestJS** and **Node.js**, I specialize in building scalable, secure, and efficient server-side applications. On the frontend, I leverage the power of **Next.js** and **React** to create high-performance web applications, often incorporating **Three.js** and **React Three Fiber** to push the boundaries of traditional web interfaces with interactive 3D elements.
+
+My expertise extends to mobile development, where I utilize **Flutter and Dart** to build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. I am also currently exploring **Rust** to deepen my understanding of systems programming and high-performance computing.
+
+I believe in the philosophy of "Clean Code"—writing software that is not only functional but also readable, maintainable, and elegant. To me, philosophy begins in wonder, and every project is an opportunity to explore new boundaries and solve complex problems.
 
 ---
 
-### 🚀 Highlighted Projects
+### 🛠️ Technical Expertise
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Mall Connect](https://github.com/4iShmmri/mall-project)** | Modern mall management platform with 3D interactive maps. | NestJS, Next.js, R3F |
-| **[Reqto Platform](https://github.com/4iShmmri/reqto-app)** | Efficient request management platform. | Next.js, PostgreSQL |
-| **[Unified Video Core](https://github.com/4iShmmri/unified-headless-video-core)** | Cross-platform logic engine in Rust. | Rust, Headless |
-| **[CrosswordApp](https://github.com/4iShmmri/CrosswordApp)** | Interactive crossword puzzle application. | Mobile/Web |
+- **Backend Development**: NestJS, Node.js, Express, PostgreSQL, TypeORM, JWT Authentication, Microservices.
+- **Frontend Development**: Next.js (App Router), React, Tailwind CSS, Framer Motion, Responsive Design.
+- **3D & Graphics**: Three.js, React Three Fiber, Shader programming basics.
+- **Mobile Development**: Flutter, Dart, State Management (Provider/Bloc), Cross-platform integration.
+- **Languages & Core**: TypeScript, JavaScript, Rust, SQL, HTML5/CSS3.
+- **Tools & DevOps**: Git, GitHub CLI, Docker, CI/CD pipelines, API Documentation (Swagger).
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Projects & Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4iShmmri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4iShmmri&layout=compact&theme=radical)
+- **Mall Connect**: A comprehensive mall management platform featuring real-time chat, interactive 3D floor maps, and a robust store/product management dashboard.
+- **Reqto Platform**: A specialized platform designed for streamlined request management and workflow automation.
+- **Unified Headless Video Core**: A high-performance, cross-platform logic engine for video playback, engineered using Rust.
+- **CrosswordApp**: An engaging mobile and web application dedicated to interactive crossword puzzles.
+- **ShiftMate**: A resource and project management tool focused on optimizing team schedules and task allocation.
+- **MySprint**: A productivity solution tailored for managing sprints and development cycles efficiently.
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4iShmmri/4iShmmri/main/avatar.png" width="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/4iShmmri/4iShmmri/main/avatar.png" width="250" style="border-radius: 50%;" />
   <br/>
   <i>"Philosophy begins in wonder."</i>
 </p>
