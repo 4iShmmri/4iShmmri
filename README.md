@@ -1,4 +1,4 @@
-# Hi there, I'm محمد الشمري 👋
+# Hi there, I'm Mohammed Al-Shammari 👋
 
 Full-Stack Developer | Mobile App Enthusiast | 3D Web Graphics Explorer
 
